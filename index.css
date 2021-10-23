@@ -1,0 +1,201 @@
+nav {
+  background-color: #e76f51;
+  font-size: 20px;
+  font-family: cursive;
+  text-align: center;
+}
+
+a {
+  background-color: #f4a261;
+  text-decoration-color: orange;
+  color: black;
+}
+
+.indexhe2 {
+  font-family: fantasy;
+  color: #f07167;
+  font-size: 25px;
+}
+
+h1 {
+  color: #f07167;
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+
+h3 {
+  background-color: #f6bd60;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+div {
+  color: black;
+  font-family: cursive;
+  font-size: 14px;
+}
+
+.content {
+  margin: 10px;
+  padding-bottom: 30px;
+  position:sticky;
+}
+
+.whatis {
+  width: 50%;
+  height: auto;
+  text-align: left;
+  float: left;
+}
+
+.video {
+  width: 50%;
+  height: 150px;
+  float: right;
+  padding-bottom: 120px;
+  margin-top: -15px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h4 {
+ color: #f6bd60;
+ font-family: monospace;
+ font-size: 18px;
+ text-align: left;
+}
+
+ul {
+  text-align: left;
+}
+
+ol {
+  text-align: left;
+}
+
+#contactinfo {
+  font-weight: bold;
+}
+
+footer {
+  font-family: sans-serif;
+  background-image: url(https://cdn.shopify.com/s/files/1/0017/0511/5725/products/pastelrainbow_2017x.png?v=1606576680);
+}
+
+.indexhe1 {
+  font-family: papyrus;
+  text-align: center;
+  color: black;
+  background-color: #f6bd60;
+  font-size: 40px;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #fdfcdc;
+}
+
+.headerbg {
+  background-color: beige;
+  background-image: url(https://cdn.shopify.com/s/files/1/0017/0511/5725/products/pastelrainbow_2017x.png?v=1606576680);
+  background-position: center;
+}
+
+#logo {
+  width: 10%;
+  height: 20.5%;
+  float: left;
+  text-align: right;
+  position: sticky;
+  left: 23%;
+  display: block;
+}
+
+h2 {
+  color:#f6bd60;
+  font-family: monospace;
+  font-size: 30px;
+  text-align: center;
+}
+
+h3 {
+  background-color: #f6bd60;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.mission {
+  color: black;
+  font-family: serif;
+  font-size: 15px;
+}
+
+.ref {
+  color: #f94144;
+  text-align: center;
+}
+
+#link {
+  background-color: #ff758f;
+  color: black;
+  text-decoration-color: #ff758f;
+}
+
+.join {
+  background-image: url(https://www.system-concepts.com/wp-content/uploads/2018/01/hands-in-air-get-outside-metaphor.jpg);
+  background-position: center;
+}
+
+#types {
+  height: 700px;
+  width: 450px;
+  float: right;
+  text-align: right;
+  position: sticky;
+  display: block;
+}
+
+#victim {
+  height: 325px;
+  width: 400px;
+  float: right;
+  text-align:right;
+  position: sticky;
+  display: block;
+}
+
+#bully {
+  height: 400px;
+  width: 350px;
+  float: right;
+  text-align: right;
+  position: sticky;
+  display: block;
+}
+
+#nobullying {
+  height: 400px;
+  width: 350px;
+  float: right;
+  text-align: right;
+  position: sticky;
+  display: block;
+}
+
+#org {
+  height: 100px;
+  width: 150px;
+  float: right;
+  text-align: right;
+  position: sticky;
+  display: block;
+}
